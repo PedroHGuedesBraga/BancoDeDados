@@ -1,0 +1,9 @@
+Grupo: 
+Edson Kelvin,
+Matheus Guimarães,
+Pedro Freitas,
+Pedro Guedes,
+Guilherme Leonardo;
+
+Link repositório:
+https://github.com/pedrohdfm/bd_poo
